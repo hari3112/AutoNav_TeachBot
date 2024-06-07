@@ -1,0 +1,1 @@
+KERNEL=="ttyACM?", SUBSYSTEM=="tty", ATTRS{idVendor}=="2341", ATTRS{idProduct}=="0042", ATTRS{serial}=="75033303334351F03241", MODE="0666" SYMLINK+="linobase"
