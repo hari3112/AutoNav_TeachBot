@@ -1,5 +1,5 @@
 # mini-linorobot
-This mini robot has been done by following linorobot setup using Arduino-Mega 2560 in ROS-Noetic.
+This mini linorobot is a 2 wheel differential drive mobile robot which has been developed by following linorobot setup using Arduino-Mega 2560 in ROS-Noetic.
 Refer the linorobot from the link https://linorobot.org/
 
 
