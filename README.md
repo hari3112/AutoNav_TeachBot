@@ -52,6 +52,7 @@ roslaunch linorobot bringup.launch
 
 roslaunch linorobot slam.launch
 
+Save the map in the maps folder inside linorobot folder
 
 # Launch navigation packages
 
