@@ -1,5 +1,5 @@
 # mini-linorobot
-This mini robot has been done by following linorobot setup using Arduino-Mega 2560 in ROS-Noetic
+This mini robot has been done by following linorobot setup using Arduino-Mega 2560 in ROS-Noetic.
 Refer the linorobot from the link https://linorobot.org/
 
 
@@ -19,7 +19,7 @@ N20 12V motor with Encoder.
 
 Edit the motor configuration in the firmware
 
-Motor configuration:
+# Motor configuration
 
 //define your robot' specs here
 
@@ -37,23 +37,23 @@ Motor configuration:
 
 #define MAX_STEERING_ANGLE 0.415  // max steering angle. This only applies to Ackermann steering
 
-Uploading the codes:
+# Uploading the codes
 
 cd ~/linorobot_ws/src/linorobot/teensy/firmware
 
 platformio run --target upload
 
 
-Launch base driver:
+# Launch base driver
 
 roslaunch linorobot bringup.launch
 
-Launch mapping packages:
+# Launch mapping packages
 
 roslaunch linorobot slam.launch
 
 
-Launch navigation packages:
+# Launch navigation packages
 
 roslaunch linorobot navigate.launch
 
