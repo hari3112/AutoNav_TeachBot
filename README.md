@@ -19,6 +19,7 @@ N20 12V motor with Encoder.
 
 
 Edit the motor configuration in the firmware
+
 Motor configuration:
 
 //define your robot' specs here
