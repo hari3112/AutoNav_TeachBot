@@ -1,5 +1,6 @@
-# mini-linorobot
-This mini linorobot is a 2 wheel differential drive mobile robot which has been developed by following linorobot setup using Arduino-Mega 2560 in ROS-Noetic.
+# AutoNav_TeachNot
+This project contributed to the TeachingAssistantBot by designing and implementing its autonomous navigation system. This involved setting up the mobile base and integrating it with algorithms that enable the bot to autonomously navigate to specified goals. The project focus was on ensuring the robot could move efficiently and accurately within its environment, laying the foundation for future enhancements such as NLP and speech recognition integration.
+This robot is a 2 wheel differential drive mobile robot which has been developed by following linorobot setup using Arduino-Mega 2560 in ROS-Noetic.
 Refer the linorobot from the link https://linorobot.org/
 
 
